@@ -1,0 +1,29 @@
+{
+  "name": "fcc-backend-all-in-one",
+  "version": "1.0.0",
+  "description": "FCC Back-End Projects",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fadavi/fcc-backend-all-in-one.git"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "Mohamad Fadavi <fadavi.mohamad@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fadavi/fcc-backend-all-in-one/issues"
+  },
+  "homepage": "https://github.com/fadavi/fcc-backend-all-in-one#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "multer": "^1.4.4-lts.1"
+  }
+}
